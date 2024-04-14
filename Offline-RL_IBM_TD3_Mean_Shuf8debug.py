@@ -30,14 +30,14 @@ crlr=0.01
 import numpy as np
 
 
-path="/root/PycharmProjects/paper/data/data_x_y.csv"
+path="/path/to/data/data_x_y.csv"
 with open(path) as f:
     if data_lines== -1:
       data_x_y=np.loadtxt(path,delimiter=',',skiprows=1)
     else:
       data_x_y=np.loadtxt(path,delimiter=',',skiprows=1)[0:data_lines,:]
 #Unable to read csv using Pandas and convert it to MDPdataset. There is a bug
-path1="/root/PycharmProjects/paper/data/test_data_x_y.csv"
+path1="/path/to/data/test_data_x_y.csv"
 with open(path1) as f:
     if data_lines== -1:
        test_data_x_y=np.loadtxt(path1,delimiter=',',skiprows=1)
