@@ -14,8 +14,8 @@ from sklearn.ensemble import GradientBoostingRegressor,GradientBoostingClassifie
 WINDOW_SIZE = 1024
 from sklearn.linear_model import LassoCV
 
-logs = Logger.Logger('/root/PycharmProjects/paper/logs/ibm110_SAC_nepos65_ter250_SAMgra_20_scaler0_xleaner_mean_shuffle0_base_real.log')
-logs_rl = Logger.Logger('/root/PycharmProjects/paper/logs/ibm110_SAC_nepos65_ter250_SAMgra_20_scaler0_xleaner_mean_shuffle0_rl_predict.log')
+logs = Logger.Logger('/path/to/logs/ibm110_SAC_nepos65_ter250_SAMgra_20_scaler0_xleaner_mean_shuffle0_base_real.log')
+logs_rl = Logger.Logger('/path/to/logs/ibm110_SAC_nepos65_ter250_SAMgra_20_scaler0_xleaner_mean_shuffle0_rl_predict.log')
 
 # alternate code
 class AlgoProtocol(Protocol):
