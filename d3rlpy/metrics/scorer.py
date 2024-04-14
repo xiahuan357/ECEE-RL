@@ -213,7 +213,7 @@ def continuous_action_diff_scorer_refute_dis(algo: AlgoProtocol, episodes: List[
                 treatment='rewards',
                 outcome='action',
                 # common_causes=cols,
-                graph='/root/PycharmProjects/paper/data/ibm_x_482_x1.gml'
+                graph='/path/to/data/ibm_x_482_x1.gml'
             )
 
             identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
@@ -351,7 +351,7 @@ def continuous_action_diff_scorer_real_dis(
                 treatment='rewards',
                 outcome='action',
                 # common_causes=cols,
-                graph='/root/PycharmProjects/paper/data/ibm_x_482_x1.gml'
+                graph='/path/to/data/ibm_x_482_x1.gml'
             )
 
             identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
