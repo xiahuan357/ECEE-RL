@@ -373,7 +373,7 @@ class DiscreteSACImpl(DiscreteQFunctionMixin, TorchImplBase):
             outcome='action',
             # common_causes=cols,
             # graph='D:\PythonProject\Paper\RL-Causal\\test1.gml'
-            graph='/root/PycharmProjects/paper/data/ibm_x_482.gml'
+            graph='/path/to/data/ibm_x_482.gml'
         )
         # end
 
