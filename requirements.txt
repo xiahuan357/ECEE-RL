@@ -1,6 +1,6 @@
 d3rlpy==1.1.1
 dowhy==0.10
 econml==0.14.0
-torch==1.12.0.post2
+torch==1.12.0
 torchaudio==0.12.0
 torchvision==0.13.0
