@@ -1,0 +1,60 @@
+2024-04-03 22:02:03,963 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.2966988046558751
+2024-04-03 22:02:03,964 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:-0.5442699790000916
+2024-04-03 22:02:03,964 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.5447006560083025
+2024-04-03 22:02:03,965 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:1.0
+2024-04-03 23:20:46,565 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.2967011132293991
+2024-04-03 23:20:46,565 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:-0.5442720651626587
+2024-04-03 23:20:46,565 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.5447027751254799
+2024-04-03 23:20:46,565 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:1.0
+2024-04-04 00:39:25,066 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.268920832060183
+2024-04-04 00:39:25,068 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:-0.5177033543586731
+2024-04-04 00:39:25,068 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.51857577272775
+2024-04-04 00:39:25,068 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:1.0
+2024-04-04 01:56:41,901 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:1.180834029176925
+2024-04-04 01:56:41,902 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.9653709530830383
+2024-04-04 01:56:41,902 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:1.0866618743550935
+2024-04-04 01:56:41,902 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:1.0
+2024-04-04 03:12:31,031 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:1.8417433466176736
+2024-04-04 03:12:31,035 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:1.349228024482727
+2024-04-04 03:12:31,035 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:1.3571084505733775
+2024-04-04 03:12:31,035 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:1.0
+2024-04-04 04:28:18,988 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.29567204493833393
+2024-04-04 04:28:18,994 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:-0.5433270335197449
+2024-04-04 04:28:18,994 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.5437573401236382
+2024-04-04 04:28:18,994 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:1.0
+2024-04-04 05:43:20,696 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.16239045709509595
+2024-04-04 05:43:20,701 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.402394562959671
+2024-04-04 05:43:20,701 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.40297699325779873
+2024-04-04 05:43:20,701 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.8666666666666667
+2024-04-04 06:59:22,085 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.15729425271475725
+2024-04-04 06:59:22,086 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.3960115909576416
+2024-04-04 06:59:22,086 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.3966033947342827
+2024-04-04 06:59:22,086 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.855
+2024-04-04 08:14:02,031 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.17218357409320953
+2024-04-04 08:14:02,037 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.41438448429107666
+2024-04-04 08:14:02,037 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.41495008626726365
+2024-04-04 08:14:02,037 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.8116666666666666
+2024-04-04 09:28:59,758 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.21183603795115472
+2024-04-04 09:28:59,761 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.4597466289997101
+2024-04-04 09:28:59,762 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.4602564914818201
+2024-04-04 09:28:59,762 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:1.0
+2024-04-04 10:43:59,254 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.21781681480165127
+2024-04-04 10:43:59,255 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.4662057161331177
+2024-04-04 10:43:59,255 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.46670849017523913
+2024-04-04 10:43:59,255 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.8633333333333333
+2024-04-04 11:58:25,865 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.2383025988083023
+2024-04-04 11:58:25,871 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.4876818358898163
+2024-04-04 11:58:25,871 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.4881624717328262
+2024-04-04 11:58:25,871 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.7933333333333333
+2024-04-04 13:12:50,261 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.22041915629534495
+2024-04-04 13:12:50,266 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.4689883887767792
+2024-04-04 13:12:50,266 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.4694881854693949
+2024-04-04 13:12:50,266 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.8516666666666667
+2024-04-04 14:27:23,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.19605839269681358
+2024-04-04 14:27:23,270 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.44225481152534485
+2024-04-04 14:27:23,270 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.44278481534128245
+2024-04-04 14:27:23,270 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.9183333333333333
+2024-04-04 15:41:23,324 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.20029869422580138
+2024-04-04 15:41:23,327 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.44702306389808655
+2024-04-04 15:41:23,327 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.4475474212033864
+2024-04-04 15:41:23,327 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.985

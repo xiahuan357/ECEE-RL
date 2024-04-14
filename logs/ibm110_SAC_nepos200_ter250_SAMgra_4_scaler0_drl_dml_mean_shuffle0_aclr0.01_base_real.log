@@ -1,0 +1,74 @@
+2022-08-24 10:41:23,748 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2022-08-24 10:41:23,748 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2022-08-24 10:41:23,754 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:41:23,754 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:41:23,757 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.22401546663105876
+2022-08-24 10:41:23,757 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.22401546663105876
+2022-08-24 10:42:32,016 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2022-08-24 10:42:32,016 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2022-08-24 10:42:32,020 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:42:32,020 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:42:32,023 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.19853984168207717
+2022-08-24 10:42:32,023 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.19853984168207717
+2022-08-24 10:43:43,192 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2022-08-24 10:43:43,192 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2022-08-24 10:43:43,196 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.11436770117987276
+2022-08-24 10:43:43,196 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.11436770117987276
+2022-08-24 10:43:43,199 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.12202634799732723
+2022-08-24 10:43:43,199 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.12202634799732723
+2022-08-24 10:44:54,279 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2022-08-24 10:44:54,279 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2022-08-24 10:44:54,283 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:44:54,283 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:44:54,286 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.2097073897757582
+2022-08-24 10:44:54,286 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.2097073897757582
+2022-08-24 10:46:02,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2022-08-24 10:46:02,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2022-08-24 10:46:02,302 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:7.494335890677706e-18
+2022-08-24 10:46:02,302 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:7.494335890677706e-18
+2022-08-24 10:46:02,305 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.1989242763273893
+2022-08-24 10:46:02,305 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.1989242763273893
+2022-08-24 10:47:12,017 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2022-08-24 10:47:12,017 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2022-08-24 10:47:12,021 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.010854569559977786
+2022-08-24 10:47:12,021 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.010854569559977786
+2022-08-24 10:47:12,024 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.16932764664273867
+2022-08-24 10:47:12,024 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.16932764664273867
+2022-08-24 10:48:23,353 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2022-08-24 10:48:23,353 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2022-08-24 10:48:23,357 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.01753882402783553
+2022-08-24 10:48:23,357 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.01753882402783553
+2022-08-24 10:48:23,360 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.19073672776043565
+2022-08-24 10:48:23,360 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.19073672776043565
+2022-08-24 10:49:31,704 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2022-08-24 10:49:31,704 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2022-08-24 10:49:31,708 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.06280233955396729
+2022-08-24 10:49:31,708 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.06280233955396729
+2022-08-24 10:49:31,711 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.14520261962851114
+2022-08-24 10:49:31,711 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.14520261962851114
+2022-08-24 10:50:44,566 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2022-08-24 10:50:44,566 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2022-08-24 10:50:44,570 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.004165951680528936
+2022-08-24 10:50:44,570 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.004165951680528936
+2022-08-24 10:50:44,573 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.17257495790052976
+2022-08-24 10:50:44,573 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.17257495790052976
+2022-08-24 10:51:52,924 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2022-08-24 10:51:52,924 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2022-08-24 10:51:52,928 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:51:52,928 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:51:52,931 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.24224208113379575
+2022-08-24 10:51:52,931 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.24224208113379575
+2022-08-24 10:53:02,195 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2022-08-24 10:53:02,195 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2022-08-24 10:53:02,199 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.057047706885677486
+2022-08-24 10:53:02,199 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.057047706885677486
+2022-08-24 10:53:02,202 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.2678400835858647
+2022-08-24 10:53:02,202 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.2678400835858647
+2022-08-24 10:54:10,260 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2022-08-24 10:54:10,260 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2022-08-24 10:54:10,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:54:10,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2022-08-24 10:54:10,267 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.239591622234002
+2022-08-24 10:54:10,267 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff:0.239591622234002
+2022-08-24 10:54:10,270 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff mean:0.198394088441624
+2022-08-24 10:54:10,270 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff mean:0.198394088441624

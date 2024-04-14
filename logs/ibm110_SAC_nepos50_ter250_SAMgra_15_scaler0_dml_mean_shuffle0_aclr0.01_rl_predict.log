@@ -1,0 +1,21 @@
+2023-03-12 18:26:26,811 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:[0.98]
+2023-03-12 18:26:26,813 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:[0.96]
+2023-03-12 18:26:26,838 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.19363549308149378
+2023-03-12 18:26:26,840 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.43954938650131226
+2023-03-12 18:26:26,842 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.4400403311987366
+2023-03-12 18:26:26,843 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_subset:0.526
+2023-03-12 18:26:26,845 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.506
+2023-03-12 18:28:02,613 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:[0.74]
+2023-03-12 18:28:02,614 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:[0.82]
+2023-03-12 18:28:02,641 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.19429093694917257
+2023-03-12 18:28:02,643 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.44033196568489075
+2023-03-12 18:28:02,645 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.4407844563379845
+2023-03-12 18:28:02,647 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_subset:0.5454545454545454
+2023-03-12 18:28:02,648 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.5345454545454545
+2023-03-12 18:29:38,351 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:[0.2]
+2023-03-12 18:29:38,353 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:[0.04]
+2023-03-12 18:29:38,378 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MSE mean:0.19707300049439022
+2023-03-12 18:29:38,380 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff MAE mean:0.44340047240257263
+2023-03-12 18:29:38,382 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict ate diff RMSE mean:0.44392904894182156
+2023-03-12 18:29:38,384 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_subset:0.5166666666666667
+2023-03-12 18:29:38,385 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rl predict total_p_value_mean_random:0.49333333333333335

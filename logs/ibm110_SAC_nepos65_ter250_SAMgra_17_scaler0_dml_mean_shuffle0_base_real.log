@@ -1,0 +1,901 @@
+2023-03-22 20:37:11,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.07999999999999996
+2023-03-22 20:37:11,881 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.19999999999999996
+2023-03-22 20:37:11,881 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-22 20:37:11,881 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 20:38:48,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.3600000000000001
+2023-03-22 20:38:48,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.020000000000000018
+2023-03-22 20:38:48,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-22 20:38:48,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 20:40:25,245 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.09999999999999998
+2023-03-22 20:40:25,245 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.43999999999999995
+2023-03-22 20:40:25,246 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-22 20:40:25,246 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.07300437016173957
+2023-03-22 20:42:02,147 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.17999999999999994
+2023-03-22 20:42:02,147 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.3999999999999999
+2023-03-22 20:42:02,148 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-22 20:42:02,148 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 20:43:38,116 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.32000000000000006
+2023-03-22 20:43:38,116 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.26
+2023-03-22 20:43:38,116 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-22 20:43:38,116 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:5.152613009506861e-18
+2023-03-22 20:45:15,190 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.45999999999999996
+2023-03-22 20:45:15,190 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.30000000000000004
+2023-03-22 20:45:15,190 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-22 20:45:15,190 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.028554986573449397
+2023-03-22 20:46:52,338 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.17999999999999994
+2023-03-22 20:46:52,339 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.48
+2023-03-22 20:46:52,339 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-22 20:46:52,339 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.4239234851745968e-17
+2023-03-22 20:48:28,178 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.14
+2023-03-22 20:48:28,178 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.42000000000000004
+2023-03-22 20:48:28,179 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-22 20:48:28,179 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 20:50:03,735 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.19999999999999996
+2023-03-22 20:50:03,735 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.17999999999999994
+2023-03-22 20:50:03,736 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-22 20:50:03,736 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 20:51:39,206 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.10000000000000009
+2023-03-22 20:51:39,206 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.56
+2023-03-22 20:51:39,206 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-22 20:51:39,206 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 20:53:16,886 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.040000000000000036
+2023-03-22 20:53:16,887 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-22 20:53:16,887 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-22 20:53:16,887 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3799999999999999
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.1200000000000001
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:4.41827520167977e-17
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20101690682212747
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.44726437695439997
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4483490903549682
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.08833333333333333
+2023-03-22 20:54:53,185 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.11
+2023-03-22 21:56:30,520 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.16000000000000003
+2023-03-22 21:56:30,520 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.06000000000000005
+2023-03-22 21:56:30,520 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-22 21:56:30,520 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 21:58:06,960 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.1200000000000001
+2023-03-22 21:58:06,960 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.15999999999999992
+2023-03-22 21:58:06,960 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-22 21:58:06,960 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 21:59:44,232 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-22 21:59:44,232 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.52
+2023-03-22 21:59:44,232 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-22 21:59:44,232 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.09225015139854165
+2023-03-22 22:01:21,533 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.84
+2023-03-22 22:01:21,533 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6
+2023-03-22 22:01:21,533 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-22 22:01:21,533 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-3.4204374793109463e-17
+2023-03-22 22:02:57,887 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.1200000000000001
+2023-03-22 22:02:57,887 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.21999999999999997
+2023-03-22 22:02:57,887 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-22 22:02:57,887 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 22:04:35,021 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6399999999999999
+2023-03-22 22:04:35,022 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6799999999999999
+2023-03-22 22:04:35,022 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-22 22:04:35,022 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.046248937960364306
+2023-03-22 22:06:12,617 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.14
+2023-03-22 22:06:12,617 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.19999999999999996
+2023-03-22 22:06:12,617 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-22 22:06:12,617 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.3828650188389237e-18
+2023-03-22 22:07:49,881 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.36
+2023-03-22 22:07:49,881 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.06000000000000005
+2023-03-22 22:07:49,882 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-22 22:07:49,882 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 22:09:27,040 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.48
+2023-03-22 22:09:27,040 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5800000000000001
+2023-03-22 22:09:27,040 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-22 22:09:27,040 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.01628709791381953
+2023-03-22 22:11:03,701 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.18000000000000005
+2023-03-22 22:11:03,702 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.42000000000000004
+2023-03-22 22:11:03,702 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-22 22:11:03,702 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-8.206100543486334e-18
+2023-03-22 22:12:40,385 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.07999999999999996
+2023-03-22 22:12:40,385 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.19999999999999996
+2023-03-22 22:12:40,385 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-22 22:12:40,385 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.009529528262126432
+2023-03-22 22:14:16,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.30000000000000004
+2023-03-22 22:14:16,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.42000000000000004
+2023-03-22 22:14:16,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-22 22:14:16,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 22:14:16,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.19828145568429065
+2023-03-22 22:14:16,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.4436229350981158
+2023-03-22 22:14:16,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4452880592204227
+2023-03-22 22:14:16,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.26166666666666666
+2023-03-22 22:14:16,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.28
+2023-03-22 23:15:44,645 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6000000000000001
+2023-03-22 23:15:44,646 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.3600000000000001
+2023-03-22 23:15:44,646 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-22 23:15:44,646 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.04145421871753075
+2023-03-22 23:17:21,470 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.1399999999999999
+2023-03-22 23:17:21,471 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.040000000000000036
+2023-03-22 23:17:21,471 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-22 23:17:21,471 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 23:18:57,652 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.33999999999999997
+2023-03-22 23:18:57,652 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.18000000000000005
+2023-03-22 23:18:57,652 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-22 23:18:57,652 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.044389884948880805
+2023-03-22 23:20:34,173 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.26
+2023-03-22 23:20:34,174 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.48
+2023-03-22 23:20:34,174 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-22 23:20:34,174 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 23:22:10,946 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.5800000000000001
+2023-03-22 23:22:10,946 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.45999999999999996
+2023-03-22 23:22:10,946 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-22 23:22:10,946 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.4394629636405023e-17
+2023-03-22 23:23:48,234 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6000000000000001
+2023-03-22 23:23:48,234 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6399999999999999
+2023-03-22 23:23:48,234 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-22 23:23:48,234 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.04427777755297801
+2023-03-22 23:25:24,952 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.12
+2023-03-22 23:25:24,953 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.24
+2023-03-22 23:25:24,953 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-22 23:25:24,953 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 23:27:01,872 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.14
+2023-03-22 23:27:01,872 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-22 23:27:01,872 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-22 23:27:01,872 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:7.74727432650721e-18
+2023-03-22 23:28:38,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.52
+2023-03-22 23:28:38,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5
+2023-03-22 23:28:38,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-22 23:28:38,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.004117004901522398
+2023-03-22 23:30:15,535 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3400000000000001
+2023-03-22 23:30:15,535 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6200000000000001
+2023-03-22 23:30:15,535 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-22 23:30:15,535 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 23:31:53,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.08000000000000007
+2023-03-22 23:31:53,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.1399999999999999
+2023-03-22 23:31:53,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-22 23:31:53,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-22 23:33:29,712 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-22 23:33:29,712 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.020000000000000018
+2023-03-22 23:33:29,713 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-22 23:33:29,713 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.129119558313812e-17
+2023-03-22 23:33:29,713 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.19852367343198182
+2023-03-22 23:33:29,713 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.4445410828389231
+2023-03-22 23:33:29,713 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4455599549241177
+2023-03-22 23:33:29,713 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.26000000000000006
+2023-03-22 23:33:29,713 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.09499999999999999
+2023-03-23 00:34:48,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.38
+2023-03-23 00:34:48,264 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.18000000000000005
+2023-03-23 00:34:48,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 00:34:48,265 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 00:36:26,473 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.21999999999999997
+2023-03-23 00:36:26,473 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.24
+2023-03-23 00:36:26,473 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 00:36:26,473 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.509627560325267e-18
+2023-03-23 00:38:03,608 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.52
+2023-03-23 00:38:03,608 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.06000000000000005
+2023-03-23 00:38:03,608 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 00:38:03,608 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.04938747996307845
+2023-03-23 00:39:40,559 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.72
+2023-03-23 00:39:40,559 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.9199999999999999
+2023-03-23 00:39:40,560 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 00:39:40,560 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:4.454755621136307e-17
+2023-03-23 00:41:17,329 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.21999999999999997
+2023-03-23 00:41:17,329 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.32000000000000006
+2023-03-23 00:41:17,329 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 00:41:17,329 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 00:42:55,468 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.5800000000000001
+2023-03-23 00:42:55,468 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.41999999999999993
+2023-03-23 00:42:55,468 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 00:42:55,468 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.025369021751716934
+2023-03-23 00:44:32,783 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.21999999999999997
+2023-03-23 00:44:32,783 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8
+2023-03-23 00:44:32,783 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 00:44:32,783 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.35645588233725e-17
+2023-03-23 00:46:08,419 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.5
+2023-03-23 00:46:08,419 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.06000000000000005
+2023-03-23 00:46:08,419 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 00:46:08,419 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0359292213401726
+2023-03-23 00:47:45,340 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6799999999999999
+2023-03-23 00:47:45,340 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5800000000000001
+2023-03-23 00:47:45,340 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 00:47:45,340 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.007045481369807714
+2023-03-23 00:49:21,202 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.15999999999999992
+2023-03-23 00:49:21,202 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.48
+2023-03-23 00:49:21,202 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 00:49:21,202 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-8.705662134623488e-18
+2023-03-23 00:50:57,855 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.0
+2023-03-23 00:50:57,855 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-23 00:50:57,855 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 00:50:57,855 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-1.602970634191231e-17
+2023-03-23 00:52:33,380 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.24
+2023-03-23 00:52:33,380 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.31999999999999995
+2023-03-23 00:52:33,380 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 00:52:33,380 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 00:52:33,380 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20075763864613524
+2023-03-23 00:52:33,381 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.44709096987523567
+2023-03-23 00:52:33,381 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4480598605612148
+2023-03-23 00:52:33,381 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.3333333333333333
+2023-03-23 00:52:33,381 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.32999999999999996
+2023-03-23 01:53:46,443 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.30000000000000004
+2023-03-23 01:53:46,443 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.17999999999999994
+2023-03-23 01:53:46,443 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 01:53:46,443 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.8402991476403606e-17
+2023-03-23 01:55:24,191 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.26
+2023-03-23 01:55:24,191 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.15999999999999992
+2023-03-23 01:55:24,191 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 01:55:24,191 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 01:57:01,534 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.52
+2023-03-23 01:57:01,534 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8600000000000001
+2023-03-23 01:57:01,534 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 01:57:01,534 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.10802105505620625
+2023-03-23 01:58:38,473 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.1200000000000001
+2023-03-23 01:58:38,473 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.48
+2023-03-23 01:58:38,473 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 01:58:38,474 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 02:00:15,349 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.15999999999999992
+2023-03-23 02:00:15,350 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.1399999999999999
+2023-03-23 02:00:15,350 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 02:00:15,350 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 02:01:52,224 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.16000000000000003
+2023-03-23 02:01:52,224 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.10000000000000009
+2023-03-23 02:01:52,225 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 02:01:52,225 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 02:03:29,157 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.040000000000000036
+2023-03-23 02:03:29,157 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.24
+2023-03-23 02:03:29,157 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 02:03:29,157 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 02:05:06,366 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.24
+2023-03-23 02:05:06,366 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.30000000000000004
+2023-03-23 02:05:06,367 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 02:05:06,367 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 02:06:43,063 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6599999999999999
+2023-03-23 02:06:43,063 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.48
+2023-03-23 02:06:43,063 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 02:06:43,063 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.018782806440770104
+2023-03-23 02:08:19,784 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.36
+2023-03-23 02:08:19,784 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5800000000000001
+2023-03-23 02:08:19,784 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 02:08:19,784 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-4.0363096227417724e-17
+2023-03-23 02:09:57,089 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.09999999999999998
+2023-03-23 02:09:57,089 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.07999999999999996
+2023-03-23 02:09:57,089 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 02:09:57,089 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.020863920600339186
+2023-03-23 02:11:33,879 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.26
+2023-03-23 02:11:33,879 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.020000000000000018
+2023-03-23 02:11:33,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 02:11:33,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.4292285881002465e-17
+2023-03-23 02:11:33,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20113450222001286
+2023-03-23 02:11:33,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.4468993282742793
+2023-03-23 02:11:33,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4484802138556537
+2023-03-23 02:11:33,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.17499999999999996
+2023-03-23 02:11:33,880 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.11500000000000003
+2023-03-23 03:12:55,623 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 03:12:55,623 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.28
+2023-03-23 03:12:55,623 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 03:12:55,623 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 03:14:33,316 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6799999999999999
+2023-03-23 03:14:33,316 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.56
+2023-03-23 03:14:33,316 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 03:14:33,316 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:4.142626712905591e-17
+2023-03-23 03:16:10,809 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3999999999999999
+2023-03-23 03:16:10,809 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8200000000000001
+2023-03-23 03:16:10,809 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 03:16:10,809 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.10042084185123627
+2023-03-23 03:17:48,421 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.10000000000000009
+2023-03-23 03:17:48,421 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.52
+2023-03-23 03:17:48,421 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 03:17:48,421 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 03:19:25,588 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.10000000000000009
+2023-03-23 03:19:25,589 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.3600000000000001
+2023-03-23 03:19:25,589 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 03:19:25,589 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.371362125467117e-18
+2023-03-23 03:21:03,228 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.5800000000000001
+2023-03-23 03:21:03,228 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5
+2023-03-23 03:21:03,228 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 03:21:03,229 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0340195109836332
+2023-03-23 03:22:39,463 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.020000000000000018
+2023-03-23 03:22:39,463 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.30000000000000004
+2023-03-23 03:22:39,463 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 03:22:39,463 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 03:24:16,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.040000000000000036
+2023-03-23 03:24:16,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.09999999999999998
+2023-03-23 03:24:16,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 03:24:16,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.8241662975999155e-17
+2023-03-23 03:25:52,951 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.41999999999999993
+2023-03-23 03:25:52,952 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.43999999999999995
+2023-03-23 03:25:52,952 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 03:25:52,952 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.007284002395682987
+2023-03-23 03:27:29,584 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.020000000000000018
+2023-03-23 03:27:29,584 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.38
+2023-03-23 03:27:29,584 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 03:27:29,584 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-7.686379562094172e-18
+2023-03-23 03:29:06,807 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.72
+2023-03-23 03:29:06,808 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8400000000000001
+2023-03-23 03:29:06,808 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 03:29:06,808 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.01840741896939555
+2023-03-23 03:30:44,297 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3600000000000001
+2023-03-23 03:30:44,297 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.32000000000000006
+2023-03-23 03:30:44,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 03:30:44,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.03910958853803402
+2023-03-23 03:30:44,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.19398563059239546
+2023-03-23 03:30:44,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.4391242097875005
+2023-03-23 03:30:44,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4404379985791365
+2023-03-23 03:30:44,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.2866666666666667
+2023-03-23 03:30:44,298 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.315
+2023-03-23 04:32:07,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.0
+2023-03-23 04:32:07,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-23 04:32:07,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 04:32:07,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.786974667208046e-18
+2023-03-23 04:33:45,331 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.26
+2023-03-23 04:33:45,331 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.10000000000000009
+2023-03-23 04:33:45,331 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 04:33:45,332 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 04:35:22,934 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.0
+2023-03-23 04:35:22,934 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.26
+2023-03-23 04:35:22,934 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 04:35:22,934 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0768773666013256
+2023-03-23 04:37:00,403 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.15999999999999992
+2023-03-23 04:37:00,403 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.5
+2023-03-23 04:37:00,404 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 04:37:00,404 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 04:38:37,976 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3600000000000001
+2023-03-23 04:38:37,976 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.24
+2023-03-23 04:38:37,976 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 04:38:37,976 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:5.7712550320377405e-18
+2023-03-23 04:40:14,965 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.74
+2023-03-23 04:40:14,965 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6799999999999999
+2023-03-23 04:40:14,965 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 04:40:14,965 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.04224896169579639
+2023-03-23 04:41:51,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.14
+2023-03-23 04:41:51,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.1200000000000001
+2023-03-23 04:41:51,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 04:41:51,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 04:43:29,317 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.1399999999999999
+2023-03-23 04:43:29,318 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.0
+2023-03-23 04:43:29,318 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 04:43:29,318 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.8410716578207665e-17
+2023-03-23 04:45:05,496 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.26
+2023-03-23 04:45:05,496 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.32000000000000006
+2023-03-23 04:45:05,496 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 04:45:05,496 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 04:46:42,776 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 04:46:42,776 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.7
+2023-03-23 04:46:42,776 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 04:46:42,776 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 04:48:19,418 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.78
+2023-03-23 04:48:19,418 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.7
+2023-03-23 04:48:19,418 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 04:48:19,418 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.008750106933827056
+2023-03-23 04:49:57,529 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.32000000000000006
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.19999999999999996
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.04107832358491497
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.1960071031138443
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.44164809344767697
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.44272689450026
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.16666666666666666
+2023-03-23 04:49:57,530 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.046666666666666634
+2023-03-23 05:51:17,757 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.07999999999999996
+2023-03-23 05:51:17,758 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.26
+2023-03-23 05:51:17,758 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 05:51:17,758 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 05:52:56,925 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.10000000000000009
+2023-03-23 05:52:56,925 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.19999999999999996
+2023-03-23 05:52:56,925 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 05:52:56,925 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.8305330237321393e-18
+2023-03-23 05:54:33,907 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.10000000000000009
+2023-03-23 05:54:33,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6000000000000001
+2023-03-23 05:54:33,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 05:54:33,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.08970157213560594
+2023-03-23 05:56:11,807 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.56
+2023-03-23 05:56:11,807 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8400000000000001
+2023-03-23 05:56:11,807 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 05:56:11,807 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.01493920094096167
+2023-03-23 05:57:49,206 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.21999999999999997
+2023-03-23 05:57:49,207 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.17999999999999994
+2023-03-23 05:57:49,207 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 05:57:49,207 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 05:59:26,059 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.30000000000000004
+2023-03-23 05:59:26,059 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.32000000000000006
+2023-03-23 05:59:26,059 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 05:59:26,059 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.719342228411329e-17
+2023-03-23 06:01:02,591 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.1399999999999999
+2023-03-23 06:01:02,591 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.48
+2023-03-23 06:01:02,592 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 06:01:02,592 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.2410284705001296e-17
+2023-03-23 06:02:38,570 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.5
+2023-03-23 06:02:38,570 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.41999999999999993
+2023-03-23 06:02:38,570 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 06:02:38,570 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.04156257538045203
+2023-03-23 06:04:16,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.1200000000000001
+2023-03-23 06:04:16,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.28
+2023-03-23 06:04:16,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 06:04:16,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 06:05:53,176 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.24
+2023-03-23 06:05:53,176 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.56
+2023-03-23 06:05:53,176 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 06:05:53,176 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-4.021972253023378e-17
+2023-03-23 06:07:30,220 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.040000000000000036
+2023-03-23 06:07:30,220 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.06000000000000005
+2023-03-23 06:07:30,220 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 06:07:30,220 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-2.917526451974338e-17
+2023-03-23 06:09:07,476 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3600000000000001
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.053917901423412726
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.1936863299116964
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.439050885858963
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.44009809123841515
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.17333333333333334
+2023-03-23 06:09:07,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.315
+2023-03-23 07:10:31,959 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.32000000000000006
+2023-03-23 07:10:31,959 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.020000000000000018
+2023-03-23 07:10:31,959 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 07:10:31,959 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.1063171899092147e-17
+2023-03-23 07:12:10,452 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.08000000000000007
+2023-03-23 07:12:10,453 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.19999999999999996
+2023-03-23 07:12:10,453 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 07:12:10,453 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 07:13:49,539 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.54
+2023-03-23 07:13:49,539 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-23 07:13:49,539 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 07:13:49,539 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.044704615216296345
+2023-03-23 07:15:26,993 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3400000000000001
+2023-03-23 07:15:26,993 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5800000000000001
+2023-03-23 07:15:26,993 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 07:15:26,993 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.0955487429677758e-17
+2023-03-23 07:17:06,567 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.08000000000000007
+2023-03-23 07:17:06,567 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.19999999999999996
+2023-03-23 07:17:06,567 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 07:17:06,567 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 07:18:44,478 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.72
+2023-03-23 07:18:44,478 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.9199999999999999
+2023-03-23 07:18:44,478 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 07:18:44,478 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0672965514797722
+2023-03-23 07:20:20,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.040000000000000036
+2023-03-23 07:20:20,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.15999999999999992
+2023-03-23 07:20:20,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 07:20:20,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 07:21:56,334 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.28
+2023-03-23 07:21:56,334 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.12
+2023-03-23 07:21:56,334 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 07:21:56,334 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 07:23:34,078 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.30000000000000004
+2023-03-23 07:23:34,078 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.21999999999999997
+2023-03-23 07:23:34,078 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 07:23:34,078 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 07:25:10,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.06000000000000005
+2023-03-23 07:25:10,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.72
+2023-03-23 07:25:10,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 07:25:10,910 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 07:26:47,274 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.31999999999999995
+2023-03-23 07:26:47,274 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-23 07:26:47,274 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 07:26:47,274 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.01956456788565736
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.21999999999999997
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.33999999999999997
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20204217212758777
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.4480246067814648
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4494910145126238
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.19833333333333333
+2023-03-23 07:28:24,348 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.07666666666666669
+2023-03-23 08:29:30,208 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.24
+2023-03-23 08:29:30,208 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.1200000000000001
+2023-03-23 08:29:30,208 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 08:29:30,208 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.883821932823253e-17
+2023-03-23 08:31:08,701 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.1399999999999999
+2023-03-23 08:31:08,701 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.10000000000000009
+2023-03-23 08:31:08,702 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 08:31:08,702 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 08:32:49,771 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3999999999999999
+2023-03-23 08:32:49,771 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8400000000000001
+2023-03-23 08:32:49,771 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 08:32:49,771 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.10886166758522904
+2023-03-23 08:34:28,750 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.15999999999999992
+2023-03-23 08:34:28,750 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.3400000000000001
+2023-03-23 08:34:28,751 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 08:34:28,751 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 08:36:05,945 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.26
+2023-03-23 08:36:05,946 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-23 08:36:05,946 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 08:36:05,946 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:6.83985127838616e-18
+2023-03-23 08:37:44,352 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3400000000000001
+2023-03-23 08:37:44,352 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.19999999999999996
+2023-03-23 08:37:44,352 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 08:37:44,352 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.8095129375858496e-17
+2023-03-23 08:39:20,858 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.14
+2023-03-23 08:39:20,859 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.06000000000000005
+2023-03-23 08:39:20,859 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 08:39:20,859 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 08:40:57,859 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.16000000000000003
+2023-03-23 08:40:57,859 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.040000000000000036
+2023-03-23 08:40:57,860 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 08:40:57,860 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:6.872797179057642e-18
+2023-03-23 08:42:34,176 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.26
+2023-03-23 08:42:34,177 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.19999999999999996
+2023-03-23 08:42:34,177 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 08:42:34,177 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 08:44:11,010 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.1200000000000001
+2023-03-23 08:44:11,011 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6799999999999999
+2023-03-23 08:44:11,011 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 08:44:11,011 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 08:45:47,105 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6399999999999999
+2023-03-23 08:45:47,105 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8600000000000001
+2023-03-23 08:45:47,105 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 08:45:47,105 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0026268236728186007
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.12
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.424934101684114e-17
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20053028026850858
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.4464369490774951
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.44780607439885023
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.16166666666666668
+2023-03-23 08:47:24,001 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.085
+2023-03-23 09:48:33,853 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.76
+2023-03-23 09:48:33,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6399999999999999
+2023-03-23 09:48:33,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 09:48:33,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.05609376966634601
+2023-03-23 09:50:14,238 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.21999999999999997
+2023-03-23 09:50:14,238 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.30000000000000004
+2023-03-23 09:50:14,238 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 09:50:14,238 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 09:51:53,830 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.31999999999999995
+2023-03-23 09:51:53,831 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.040000000000000036
+2023-03-23 09:51:53,831 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 09:51:53,831 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.06586307636425169
+2023-03-23 09:53:35,692 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6000000000000001
+2023-03-23 09:53:35,692 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8
+2023-03-23 09:53:35,693 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 09:53:35,693 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.2596811945393e-17
+2023-03-23 09:55:12,394 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.76
+2023-03-23 09:55:12,394 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8600000000000001
+2023-03-23 09:55:12,394 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 09:55:12,394 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.02995176314884813
+2023-03-23 09:56:49,409 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.52
+2023-03-23 09:56:49,409 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.56
+2023-03-23 09:56:49,409 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 09:56:49,409 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.030332001297448674
+2023-03-23 09:58:27,124 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.9
+2023-03-23 09:58:27,125 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8
+2023-03-23 09:58:27,125 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 09:58:27,125 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-8.908997834167733e-18
+2023-03-23 10:00:03,392 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.48
+2023-03-23 10:00:03,392 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.1399999999999999
+2023-03-23 10:00:03,392 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 10:00:03,392 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.03215995547757484
+2023-03-23 10:01:40,619 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.64
+2023-03-23 10:01:40,619 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.54
+2023-03-23 10:01:40,620 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 10:01:40,620 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.016677091018252804
+2023-03-23 10:03:17,365 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.32000000000000006
+2023-03-23 10:03:17,365 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6799999999999999
+2023-03-23 10:03:17,365 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 10:03:17,365 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 10:04:54,864 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.31999999999999995
+2023-03-23 10:04:54,864 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.16000000000000003
+2023-03-23 10:04:54,864 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 10:04:54,864 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.023297905210369462
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.7
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.76
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.07401016488227927
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.19020394061562806
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.43502467879832185
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.43612376754268745
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.5083333333333334
+2023-03-23 10:06:32,167 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.36000000000000004
+2023-03-23 11:07:42,741 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.21999999999999997
+2023-03-23 11:07:42,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.3400000000000001
+2023-03-23 11:07:42,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 11:07:42,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.766268679247841e-17
+2023-03-23 11:09:21,353 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.48
+2023-03-23 11:09:21,353 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.3400000000000001
+2023-03-23 11:09:21,353 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 11:09:21,353 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.4233324206445115e-17
+2023-03-23 11:11:00,266 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.08000000000000007
+2023-03-23 11:11:00,266 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.3400000000000001
+2023-03-23 11:11:00,266 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 11:11:00,266 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.08376971428384317
+2023-03-23 11:12:40,398 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.3400000000000001
+2023-03-23 11:12:40,398 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6200000000000001
+2023-03-23 11:12:40,398 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 11:12:40,398 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 11:14:18,642 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.08000000000000007
+2023-03-23 11:14:18,642 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.3400000000000001
+2023-03-23 11:14:18,642 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 11:14:18,642 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 11:15:56,032 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.52
+2023-03-23 11:15:56,032 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.32000000000000006
+2023-03-23 11:15:56,032 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 11:15:56,032 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.015306346241710204
+2023-03-23 11:17:33,330 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.06000000000000005
+2023-03-23 11:17:33,330 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.32000000000000006
+2023-03-23 11:17:33,330 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 11:17:33,330 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 11:19:11,871 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.040000000000000036
+2023-03-23 11:19:11,871 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.52
+2023-03-23 11:19:11,871 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 11:19:11,872 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 11:20:47,685 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.48
+2023-03-23 11:20:47,685 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.52
+2023-03-23 11:20:47,685 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 11:20:47,685 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0003316293274750095
+2023-03-23 11:22:24,503 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.15999999999999992
+2023-03-23 11:22:24,503 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6599999999999999
+2023-03-23 11:22:24,503 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 11:22:24,503 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 11:24:01,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.08000000000000007
+2023-03-23 11:24:01,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.020000000000000018
+2023-03-23 11:24:01,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 11:24:01,743 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-1.950576447155463e-17
+2023-03-23 11:25:39,894 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.56
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6200000000000001
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.060434406822836136
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.19656068165407056
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.4424074819593436
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4433516455975669
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.18833333333333332
+2023-03-23 11:25:39,895 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.09000000000000002
+2023-03-23 12:26:54,662 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.16000000000000003
+2023-03-23 12:26:54,662 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.18000000000000005
+2023-03-23 12:26:54,662 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 12:26:54,663 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 12:28:32,940 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.78
+2023-03-23 12:28:32,940 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.78
+2023-03-23 12:28:32,940 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 12:28:32,940 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-9.319767066866195e-18
+2023-03-23 12:30:11,292 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.4
+2023-03-23 12:30:11,292 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.08000000000000007
+2023-03-23 12:30:11,292 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 12:30:11,292 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.058556713513926835
+2023-03-23 12:31:49,763 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.26
+2023-03-23 12:31:49,763 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.56
+2023-03-23 12:31:49,764 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 12:31:49,764 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 12:33:27,663 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.88
+2023-03-23 12:33:27,663 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.86
+2023-03-23 12:33:27,663 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 12:33:27,663 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-2.3446462235025825e-17
+2023-03-23 12:35:07,856 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.5800000000000001
+2023-03-23 12:35:07,856 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6200000000000001
+2023-03-23 12:35:07,856 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 12:35:07,856 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.040476828640489404
+2023-03-23 12:36:45,659 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.30000000000000004
+2023-03-23 12:36:45,659 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6200000000000001
+2023-03-23 12:36:45,659 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 12:36:45,660 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:1.7409410500146917e-17
+2023-03-23 12:38:23,150 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.36
+2023-03-23 12:38:23,150 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.45999999999999996
+2023-03-23 12:38:23,150 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 12:38:23,150 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 12:40:00,358 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6000000000000001
+2023-03-23 12:40:00,358 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.56
+2023-03-23 12:40:00,358 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 12:40:00,358 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.004687564254797322
+2023-03-23 12:41:36,106 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.0
+2023-03-23 12:41:36,106 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.30000000000000004
+2023-03-23 12:41:36,106 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 12:41:36,106 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-7.98981217461341e-18
+2023-03-23 12:43:13,367 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.38
+2023-03-23 12:43:13,367 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.36
+2023-03-23 12:43:13,367 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 12:43:13,367 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.035403809043045284
+2023-03-23 12:44:49,461 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.38
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.43999999999999995
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20370006706767188
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.45003454856848496
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4513314381556772
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.38000000000000006
+2023-03-23 12:44:49,462 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.3916666666666668
+2023-03-23 13:45:52,285 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 13:45:52,285 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.43999999999999995
+2023-03-23 13:45:52,285 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 13:45:52,285 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 13:47:30,669 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.21999999999999997
+2023-03-23 13:47:30,669 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.1399999999999999
+2023-03-23 13:47:30,669 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 13:47:30,669 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 13:49:10,092 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.1399999999999999
+2023-03-23 13:49:10,092 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5
+2023-03-23 13:49:10,092 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 13:49:10,092 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0800893680867684
+2023-03-23 13:50:48,141 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.21999999999999997
+2023-03-23 13:50:48,141 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.5
+2023-03-23 13:50:48,141 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 13:50:48,141 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 13:52:26,573 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.56
+2023-03-23 13:52:26,574 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5
+2023-03-23 13:52:26,574 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 13:52:26,574 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.087869842961312e-17
+2023-03-23 13:54:05,014 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.24
+2023-03-23 13:54:05,014 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.10000000000000009
+2023-03-23 13:54:05,014 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 13:54:05,014 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.540356886611332e-18
+2023-03-23 13:55:43,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.43999999999999995
+2023-03-23 13:55:43,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6200000000000001
+2023-03-23 13:55:43,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 13:55:43,854 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.891445578262851e-17
+2023-03-23 13:57:21,853 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.06000000000000005
+2023-03-23 13:57:21,853 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.10000000000000009
+2023-03-23 13:57:21,853 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 13:57:21,853 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.2167127781876793e-17
+2023-03-23 13:59:01,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.1200000000000001
+2023-03-23 13:59:01,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.1399999999999999
+2023-03-23 13:59:01,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 13:59:01,477 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 14:00:38,404 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.56
+2023-03-23 14:00:38,404 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.9
+2023-03-23 14:00:38,404 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 14:00:38,404 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.040927636417500905
+2023-03-23 14:02:14,908 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 14:02:14,909 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.040000000000000036
+2023-03-23 14:02:14,909 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 14:02:14,909 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.005359871442580843
+2023-03-23 14:03:52,636 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.21999999999999997
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.24
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20641247472733595
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.45291083499677515
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4543263966878173
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.17166666666666663
+2023-03-23 14:03:52,637 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.22166666666666668
+2023-03-23 15:05:03,673 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.21999999999999997
+2023-03-23 15:05:03,673 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.21999999999999997
+2023-03-23 15:05:03,673 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 15:05:03,674 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 15:06:42,074 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.74
+2023-03-23 15:06:42,074 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.56
+2023-03-23 15:06:42,074 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 15:06:42,074 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.172605719689317e-17
+2023-03-23 15:08:20,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 15:08:20,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.48
+2023-03-23 15:08:20,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 15:08:20,742 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.09415693646252439
+2023-03-23 15:09:59,797 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.15999999999999992
+2023-03-23 15:09:59,797 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.45999999999999996
+2023-03-23 15:09:59,797 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 15:09:59,797 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 15:11:37,920 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.17999999999999994
+2023-03-23 15:11:37,920 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.1399999999999999
+2023-03-23 15:11:37,920 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 15:11:37,920 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 15:13:15,649 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.06000000000000005
+2023-03-23 15:13:15,650 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.040000000000000036
+2023-03-23 15:13:15,650 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 15:13:15,650 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.50811366414162e-18
+2023-03-23 15:14:54,922 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.18000000000000005
+2023-03-23 15:14:54,922 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.26
+2023-03-23 15:14:54,922 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 15:14:54,922 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 15:16:34,142 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 15:16:34,142 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.040000000000000036
+2023-03-23 15:16:34,142 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 15:16:34,142 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.032121940445836494
+2023-03-23 15:18:13,772 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6599999999999999
+2023-03-23 15:18:13,772 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6799999999999999
+2023-03-23 15:18:13,772 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 15:18:13,772 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.011368632378403111
+2023-03-23 15:19:52,499 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.30000000000000004
+2023-03-23 15:19:52,499 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6399999999999999
+2023-03-23 15:19:52,500 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 15:19:52,500 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 15:21:29,587 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.36
+2023-03-23 15:21:29,587 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.15999999999999992
+2023-03-23 15:21:29,587 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 15:21:29,587 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.0112647455629073
+2023-03-23 15:23:06,157 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.1200000000000001
+2023-03-23 15:23:06,157 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.16000000000000003
+2023-03-23 15:23:06,158 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 15:23:06,158 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:4.018270391379612e-17
+2023-03-23 15:23:06,158 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.19941952743175484
+2023-03-23 15:23:06,158 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.44519575970534436
+2023-03-23 15:23:06,158 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4465641358548118
+2023-03-23 15:23:06,158 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.225
+2023-03-23 15:23:06,158 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.07000000000000002
+2023-03-23 16:24:37,040 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.0
+2023-03-23 16:24:37,040 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.33999999999999997
+2023-03-23 16:24:37,041 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 16:24:37,041 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 16:26:16,815 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.040000000000000036
+2023-03-23 16:26:16,815 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.24
+2023-03-23 16:26:16,815 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 16:26:16,815 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 16:27:54,604 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.56
+2023-03-23 16:27:54,604 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.18000000000000005
+2023-03-23 16:27:54,604 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 16:27:54,604 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.05528695489279026
+2023-03-23 16:29:33,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.10000000000000009
+2023-03-23 16:29:33,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.5
+2023-03-23 16:29:33,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 16:29:33,335 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:5.445668223366262e-18
+2023-03-23 16:31:12,200 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.43999999999999995
+2023-03-23 16:31:12,200 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.3600000000000001
+2023-03-23 16:31:12,200 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 16:31:12,200 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:7.221582492907332e-18
+2023-03-23 16:32:51,251 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.020000000000000018
+2023-03-23 16:32:51,251 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.040000000000000036
+2023-03-23 16:32:51,251 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 16:32:51,251 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:6.973469449507438e-18
+2023-03-23 16:34:29,194 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.24
+2023-03-23 16:34:29,194 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.72
+2023-03-23 16:34:29,194 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 16:34:29,194 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.3163883366785747e-17
+2023-03-23 16:36:08,438 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.24
+2023-03-23 16:36:08,438 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.24
+2023-03-23 16:36:08,438 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 16:36:08,438 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 16:37:49,213 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.28
+2023-03-23 16:37:49,213 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.32000000000000006
+2023-03-23 16:37:49,213 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 16:37:49,213 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 16:39:26,906 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.08000000000000007
+2023-03-23 16:39:26,906 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6200000000000001
+2023-03-23 16:39:26,906 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 16:39:26,906 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 16:41:05,483 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.78
+2023-03-23 16:41:05,483 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.4
+2023-03-23 16:41:05,483 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 16:41:05,483 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:-0.04284511304850643
+2023-03-23 16:42:43,551 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.19999999999999996
+2023-03-23 16:42:43,551 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.18000000000000005
+2023-03-23 16:42:43,551 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 16:42:43,551 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 16:42:43,552 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.20758003327136432
+2023-03-23 16:42:43,552 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.454690836528642
+2023-03-23 16:42:43,552 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4556095184161151
+2023-03-23 16:42:43,552 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.19499999999999998
+2023-03-23 16:42:43,552 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.14833333333333334
+2023-03-23 17:44:45,007 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.33999999999999997
+2023-03-23 17:44:45,007 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.07999999999999996
+2023-03-23 17:44:45,007 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.47330272
+2023-03-23 17:44:45,008 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:7.194236805994797e-18
+2023-03-23 17:46:25,056 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.74
+2023-03-23 17:46:25,056 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.6000000000000001
+2023-03-23 17:46:25,056 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4455781
+2023-03-23 17:46:25,057 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:2.3433330518125538e-17
+2023-03-23 17:48:05,922 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.72
+2023-03-23 17:48:05,922 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.9199999999999999
+2023-03-23 17:48:05,923 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4636904
+2023-03-23 17:48:05,923 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.1146862017502062
+2023-03-23 17:49:45,859 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.6399999999999999
+2023-03-23 17:49:45,859 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.8
+2023-03-23 17:49:45,860 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.4579382
+2023-03-23 17:49:45,860 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:3.22915211934673e-17
+2023-03-23 17:51:25,868 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:-0.17999999999999994
+2023-03-23 17:51:25,868 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.10000000000000009
+2023-03-23 17:51:25,868 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44600928
+2023-03-23 17:51:25,868 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 17:53:06,645 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.3799999999999999
+2023-03-23 17:53:06,645 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.15999999999999992
+2023-03-23 17:53:06,645 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.42234898
+2023-03-23 17:53:06,645 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.005242003382805776
+2023-03-23 17:54:47,681 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.06000000000000005
+2023-03-23 17:54:47,681 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.17999999999999994
+2023-03-23 17:54:47,681 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.454273
+2023-03-23 17:54:47,681 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 17:56:28,760 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.28
+2023-03-23 17:56:28,760 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.31999999999999995
+2023-03-23 17:56:28,760 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.44385695
+2023-03-23 17:56:28,760 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 17:58:10,250 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.52
+2023-03-23 17:58:10,250 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.41999999999999993
+2023-03-23 17:58:10,250 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.41958737
+2023-03-23 17:58:10,250 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0018655334008120044
+2023-03-23 17:59:50,073 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.15999999999999992
+2023-03-23 17:59:50,073 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:-0.6000000000000001
+2023-03-23 17:59:50,073 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.49218094
+2023-03-23 17:59:50,073 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 18:01:29,361 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.26
+2023-03-23 18:01:29,361 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.1399999999999999
+2023-03-23 18:01:29,361 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.46048498
+2023-03-23 18:01:29,362 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards data_subset_refuter:0.36
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: rewards random_add_unobserved_common_cause:0.31999999999999995
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: real ate:0.48948097
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate:0.0
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MSE mean:0.1998928108782072
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff MAE mean:0.44557817847118036
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method ate diff RMSE mean:0.4470937383571897
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_subset:0.3566666666666667
+2023-03-23 18:03:09,241 - /root/PycharmProjects/paper/Logger.py[line:40] - INFO: Base method total_p_value_mean_random:0.23999999999999996
