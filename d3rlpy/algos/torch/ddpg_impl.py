@@ -205,7 +205,7 @@ class DDPGBaseImpl(ContinuousQFunctionMixin, TorchImplBase, metaclass=ABCMeta):
             outcome='action',
             # common_causes=cols,
 
-            graph='/root/PycharmProjects/paper/data/ibm_x_482_x1.gml'
+            graph='/path/to/data/ibm_x_482_x1.gml'
         )
         # end
 
