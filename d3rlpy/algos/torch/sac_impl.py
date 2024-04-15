@@ -373,22 +373,21 @@ class DiscreteSACImpl(DiscreteQFunctionMixin, TorchImplBase):
             outcome='action',
             # common_causes=cols,
             # graph='D:\PythonProject\Paper\RL-Causal\\test1.gml'
-            graph='/path/to/data/ibm_x_482.gml'
+            graph='/Users/bracopitzy/ECEE-RL-main_副本/data/ibm_x_482_x1.gml'
         )
         # end
 
         identified_estimand = model.identify_effect(proceed_when_unidentifiable=True)
 
         propensity_strat_estimate = model.estimate_effect(identified_estimand,
-                                                          method_name="backdoor.econml.dml.DML",
+                                                          method_name="backdoor.econml.metalearners.XLearner",
                                                           control_value=0,
                                                           treatment_value=1,
                                                           confidence_intervals=False,
                                                           method_params={"init_params": {
-                                                              'model_y': GradientBoostingRegressor(),
-                                                              'model_t': GradientBoostingRegressor(),
-                                                              "model_final": LassoCV(fit_intercept=False),
-                                                              'cv': 2,
+                                                               'models': GradientBoostingRegressor(),
+                                                               'cate_models': GradientBoostingRegressor(),
+                                                               'propensity_model': GradientBoostingClassifier()
                                                           },
                                                               "fit_params": {}}
                                                           )
@@ -432,17 +431,16 @@ class DiscreteSACImpl(DiscreteQFunctionMixin, TorchImplBase):
         action = torch.tensor(action_value).reshape(1, 1, 1).to(torch.float32).to(device)
 
         # calculate td errors
-        rewards = 1 - model.refute_estimate(identified_estimand,
-                                            propensity_strat_estimate,
-                                            method_name="data_subset_refuter").refutation_result[
-            'p_value']  # data_subset_refuter bootstrap_refuter add_unobserved_common_cause dummy_outcome_refuter graph_refuter placebo_treatment_refuter random_common_cause
+        rewards_uno = 1 - model.refute_estimate(identified_estimand,
+                                                propensity_strat_estimate,show_progress_bar=True,
+                                                method_name="random_common_cause",n_jobs=8,random_state=123).refutation_result['p_value']
 
         return self._q_func.compute_error(
             observations=batch.observations,
             # actions=batch.actions.long(),
             actions=action,
             # rewards=batch.rewards,
-            rewards=rewards,
+            rewards=rewards_uno,
             target=q_tpn,
             terminals=batch.terminals,
             gamma=self._gamma ** batch.n_steps,
