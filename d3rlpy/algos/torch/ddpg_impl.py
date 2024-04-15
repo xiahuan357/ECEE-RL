@@ -165,7 +165,7 @@ class DDPGBaseImpl(ContinuousQFunctionMixin, TorchImplBase, metaclass=ABCMeta):
         self, batch: TorchMiniBatch, q_tpn: torch.Tensor
     ) -> torch.Tensor:
         assert self._q_func is not None
-        # alternaste code
+        # alternate code
         # IBM
         cols = ['dob_mm', 'dob_wk', 'bfacil', 'ubfacil', 'bfacil3', 'mager41', 'mager14', 'mager9', 'restatus',
                 'mbrace', 'mracerec', 'umhisp', 'mracehisp', 'mar', 'meduc', 'fagecomb', 'ufagecomb', 'fagerec11',
