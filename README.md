@@ -7,13 +7,15 @@ Causal effects estimation is essential for analyzing the causal effects of treat
 Unlike fixed strategy traditional methods, ECEE-RL models causal effects estimation as a Markov Decision Process that continuously updates strategies based on feedback. In ECEE-RL, causal effects estimation and sensitivity analysis are treated as "action" and "reward", leading to adaptive optimization of strategies by minimizing the sensitivity of confounders. Experimental results on simulated datasets demonstrate that our method reduces Conditional Average Treatment Effects Mean Squared Error (MSE) by 11.92-22.71% and sensitivity significance by 25.56-64.17% compared to baseline methods under relaxed unconfoundedness. These results indicate that the ECEE-RL architecture offers higher accuracy and better sensitivity while relaxing the assumption of unconfoundedness. The experiments on real data reveal that pilots' control behaviors have varying causal impacts on bioelectrical signals, facial characteristics, and emotions.
 
 ## File Overview
-- `d3rlpy/`:
-  - ``:
-  - ``:
+- `d3rlpy/`: Based on the d3rlpy 1.1.1 version, an Offline Deep Reinforcement Learning Library. The author mainly made modifications to the following source code scripts.
+  - `d3rlpy/metrics/scorer.py`: 
+  - `d3rlpy/algos/torch/ddpg_impl.py`:
+  - `d3rlpy/algos/torch/sac_impl.py`:
+  - **Note:** This article compares three baseline methods: Double Machine Learning (DML), Doubly Robust Learners (DRL), and XLearner. This code only showcases the XLearner algorithm, while other algorithms need to be replaced in the corresponding algorithms in the files `scorer.py`, `ddpg_impl.py`, and `sac_impl.py` as mentioned above.
 
-- `data/`:
-  - `data_x_y.csv`:
-  - `test_data_x_y.csv`:
+- `data/`: IBM Causal Inference Benchmarking Data provided by the National Vital Statistics System (NVSS) and the National Center for Health Statistics (NCHS)
+  - `data_x_y.csv`: Training data
+  - `test_data_x_y.csv`: Test data
   - `ibm_x_482_x1.gml`:
 
 - `logs/`:
@@ -23,6 +25,8 @@ Unlike fixed strategy traditional methods, ECEE-RL models causal effects estimat
 - `tests/`:
 
 - `Offline-RL_IBM_TD3_Mean_Shuf8debug.py`:
+
+- 
 
 ## Installation Notes
 - Install dependencies according to requirements.txt.
