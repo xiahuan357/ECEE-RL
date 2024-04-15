@@ -6,12 +6,17 @@ Causal effects estimation is essential for analyzing the causal effects of treat
 
 Unlike fixed strategy traditional methods, ECEE-RL models causal effects estimation as a Markov Decision Process that continuously updates strategies based on feedback. In ECEE-RL, causal effects estimation and sensitivity analysis are treated as "action" and "reward", leading to adaptive optimization of strategies by minimizing the sensitivity of confounders. Experimental results on simulated datasets demonstrate that our method reduces Conditional Average Treatment Effects Mean Squared Error (MSE) by 11.92-22.71% and sensitivity significance by 25.56-64.17% compared to baseline methods under relaxed unconfoundedness. These results indicate that the ECEE-RL architecture offers higher accuracy and better sensitivity while relaxing the assumption of unconfoundedness. The experiments on real data reveal that pilots' control behaviors have varying causal impacts on bioelectrical signals, facial characteristics, and emotions.
 
-<img align="center" src="ECEE-RL architecture.jpg" alt="drawing" width="700">
-<div align="center">
-  <img src="[https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png](https://github.com/xiahuan357/ECEE-RL/blob/main/ECEE-RL%20architecture.jpg)">
-</div>
+<p align="center">
+  <img src="https://github.com/xiahuan357/ECEE-RL/blob/main/ECEE-RL%20Achitecture.jpg" alt="drawing" width="700">
+</p>
 
 **Figure 1:** ECEE-RL Architecture
+
+<p align="center">
+  <img src="https://github.com/xiahuan357/ECEE-RL/blob/main/baseline%20methods.jpg" alt="drawing" width="900">
+</p>
+
+**Figure 2:** Three baseline methods CATE and p-values compared to those obtained with ECEE-RL
  
 ## File Overview
 - `d3rlpy/`: Based on the d3rlpy 1.1.1 version, an Offline Deep Reinforcement Learning Library. The author mainly made modifications to the following source code scripts.
