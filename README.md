@@ -10,13 +10,13 @@ Unlike fixed strategy traditional methods, ECEE-RL models causal effects estimat
   <img src="https://github.com/xiahuan357/ECEE-RL/blob/main/ECEE-RL%20Achitecture.jpg" alt="drawing" width="700">
 </p>
 
-**Figure 1:** ECEE-RL Architecture
+<p align="center"><b>Figure 1:</b> ECEE-RL Architecture</p>
 
 <p align="center">
-  <img src="https://github.com/xiahuan357/ECEE-RL/blob/main/baseline%20methods.jpg" alt="drawing" width="900">
+  <img src="https://github.com/xiahuan357/ECEE-RL/blob/main/Baseline%20Methods.jpg" alt="drawing" width="900">
 </p>
 
-**Figure 2:** Three baseline methods CATE and p-values compared to those obtained with ECEE-RL
+<p align="center"><b>Figure 2:</b> Three baseline methods CATE and p-values compared to those obtained with ECEE-RL</p>
  
 ## File Overview
 - `d3rlpy/`: Based on the d3rlpy 1.1.1 version, an Offline Deep Reinforcement Learning Library. The author mainly made modifications to the following source code scripts.
