@@ -19,26 +19,22 @@ Unlike fixed strategy traditional methods, ECEE-RL models causal effects estimat
 <p align="center"><b>Figure 2:</b> Three baseline methods CATE and p-values compared to those obtained with ECEE-RL</p>
  
 ## File Overview
-- `d3rlpy/`: Based on the d3rlpy 1.1.1 version, an Offline Deep Reinforcement Learning Library. The author mainly made modifications to the following source code scripts.
-  - `d3rlpy/metrics/scorer.py`: 
-  - `d3rlpy/algos/torch/ddpg_impl.py`:
-  - `d3rlpy/algos/torch/sac_impl.py`:
+- `d3rlpy/`: This folder contains all python codes of package d3rlpy 1.1.1 version, an Offline Deep Reinforcement Learning Library. The author mainly **made modifications to the following source code scripts.**
+  - `d3rlpy/metrics/scorer.py` provides a collection of scoring functions for evaluating reinforcement learning algorithms in our paper.
+  - `d3rlpy/algos/torch/ddpg_impl.py` : The `compute_critic_loss` function has been modified based on IBM data.
+  - `d3rlpy/algos/torch/sac_impl.py` implements the Soft Actor-Critic (SAC) algorithm in this paper.
   - **Note:** This article compares three baseline methods: Double Machine Learning (DML), Doubly Robust Learners (DRL), and XLearner. This code only showcases the XLearner algorithm, while other algorithms need to be replaced in the corresponding algorithms in the files `scorer.py`, `ddpg_impl.py`, and `sac_impl.py` as mentioned above.
 
 - `data/`: IBM Causal Inference Benchmarking Data provided by the National Vital Statistics System (NVSS) and the National Center for Health Statistics (NCHS)
   - `data_x_y.csv`: Training data
   - `test_data_x_y.csv`: Test data
-  - `ibm_x_482_x1.gml`:
+  - `ibm_x_482_x1.gml`: This is a description of a graph structure to illustrate relationships and dependencies between different attributes in the IBM dataset.
 
-- `logs/`:
-  - `ibm110_SAC_nepos65_ter250_SAMgra_20_scaler0_xleaner_mean_shuffle0_base_real.log`:
-  - `ibm110_SAC_nepos65_ter250_SAMgra_20_scaler0_xleaner_mean_shuffle0_rl_predict.log`:
+- `logs/`: This folder contains a collection of information outputted by a logger during experimental processes.
 
-- `tests/`:
+- `tests/`: This folder contains all datasets, Python codes, and results related to the real data from the Human-Machine data of the pilot simulating the flight process on the aircraft simulator in this paper.
 
-- `Offline-RL_IBM_TD3_Mean_Shuf8debug.py`:
-
-- 
+- `Offline-RL_IBM_TD3_Mean_Shuf8debug.py` serves as a platform for implementing the algorithm discussed in our paper, encompassing training, testing, and estimation components.
 
 ## Installation Notes
 - Install dependencies according to requirements.txt.
