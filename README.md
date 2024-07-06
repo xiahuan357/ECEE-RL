@@ -16,8 +16,6 @@ This paper introduces an enhanced causal effect estimation architecture based on
   - `test_data_x_y.csv`: Test data
   - `ibm_x_482_x1.gml`: This is a description of a graph structure to illustrate relationships and dependencies between different attributes in the IBM dataset.
 
-- `tests/`: This folder contains all datasets, Python codes, and results related to the real data from the Human-Machine data of the pilot simulating the flight process on the aircraft simulator in this paper.
-
 - `Offline-RL_IBM_TD3_Mean_Shuf8debug.py` serves as a platform for implementing the algorithm discussed in our paper, encompassing training, testing, and estimation components.
 
 ## Installation Notes
